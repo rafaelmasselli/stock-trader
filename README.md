@@ -1,5 +1,11 @@
 <h1 align="center">  Stock trader </h1>
 
+![exemplo do projeto](/.github/screenshot_project.png)
+
+## Descrição do projeto
+
+### Esse projeto simula a compra e venda de ações de empresas em tempo real
+
 ## 👾 Requisitos
 
 - [Node Js 16](https://nodejs.org/en/blog/release/v16.16.0/)
@@ -12,7 +18,7 @@
 
 ```powershell
 $ git clone https://github.com/rafaelmasselli/FrontEnd-Stock-trader-VueJS
-#Entre na pasta
+# Entre na pasta
 $ cd FrontEnd-Stock-trader-VueJS
 ```
 
@@ -27,10 +33,7 @@ npm install
 ```powershell
 npm run serve
 ```
-
-### E assim ira abrir o projeto
-
-![exemplo do projeto](/.github/screenshot_project.png)
+<hr>
 
 ### Compila e minifica para produção
 
